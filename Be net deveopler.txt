@@ -3,4 +3,8 @@
 
 		C# -  SQL -  MVC -  WCF -  WPC -  Web Services - web API - Linq - ADo.net 
 	        Jquery - Javascript - bootstrap - Angular JS - XML -Entity framwork
+<<<<<<< HEAD
 // Edited by another Person
+=======
+// Edit by Ahmed Nasser
+>>>>>>> 9445f42cd1cf72394e7383193e0d764de11a4c95
